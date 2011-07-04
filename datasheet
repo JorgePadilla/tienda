@@ -1,0 +1,6 @@
+ producto
+  nombre:string
+  precio:float
+  descripcion:text
+  cantidad:integer
+ 
